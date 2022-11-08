@@ -1,6 +1,8 @@
+# Welcome to the ReadMe
+
 - 👋 Hi, I’m @sidnigam
 - 👀 I’m interested in Data Science, Sports Analytics, Machine Learning, and DevOps
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python using the 100 days of Code course
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - message here?
 
