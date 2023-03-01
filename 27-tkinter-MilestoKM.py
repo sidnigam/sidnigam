@@ -29,5 +29,3 @@ input = Entry(width = 20)
 input.grid(row=1, column=2)
 
 window.mainloop()
-
-
