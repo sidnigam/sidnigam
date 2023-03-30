@@ -1,0 +1,10 @@
+{
+    "facebook": {
+        "email": "jane@doe.com",
+        "password": "qwerty-is-a-bad-password"
+    },
+    "test2": {
+        "email": "jane@doe.com",
+        "password": "password-is-also-a-bad-password"
+    }
+}
