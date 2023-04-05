@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Science, Sports Analytics, Machine Learning, and DevOps
 - 🌱 I’m currently learning Python using the 100 days of Code course
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me - message here?
+- 📫 How to reach me - message here.
 
 <!---
 sidnigam/sidnigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
