@@ -10,5 +10,9 @@
     "test22": {
         "email": "sid@doe.com",
         "password": "0imz0ikf#w$TAT"
+    },
+    "facebook.com": {
+        "email": "jane@doe.com",
+        "password": "I7W5jA0h&z%u(&X2jD"
     }
 }
