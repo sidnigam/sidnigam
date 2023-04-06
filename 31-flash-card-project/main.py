@@ -68,6 +68,5 @@ flip_timer = window.after(3000, func=flipCard)
 buttonClick()
 
 window.mainloop()
-
 learn_csv = pandas.DataFrame(learn)
 learn_csv.to_csv("./31-flash-card-project/updated_spanish_progress.csv",index=False)
