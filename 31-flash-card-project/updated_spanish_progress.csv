@@ -5,7 +5,6 @@ rank,word,occurrence ppm,english
 5,la,21127,the
 6,el,18112,he
 7,es,16620,is
-8,y,15743,and
 9,en,15303,in
 10,lo,14010,it
 11,un,13410,a
@@ -27,7 +26,6 @@ rank,word,occurrence ppm,english
 28,las,4748,the
 29,sí,4704,Yeah
 30,su,4549,his
-31,tu,4194,you
 32,aquí,3952,here
 33,del,3911,of the
 34,al,3887,to the
@@ -41,7 +39,6 @@ rank,word,occurrence ppm,english
 44,hay,2584,there is
 45,ahora,2523,now
 46,algo,2469,something
-47,estoy,2454,I'm
 48,tengo,2349,I have
 49,nos,2247,us
 51,nada,2122,nothing
@@ -54,7 +51,6 @@ rank,word,occurrence ppm,english
 58,puedo,1972,I can
 59,cómo,1969,as
 60,quiero,1940,wanna
-61,sólo,1933,only
 63,tiene,1908,has
 64,gracias,1886,thank you
 65,o,1850,either
@@ -81,7 +77,6 @@ rank,word,occurrence ppm,english
 87,dios,1356,God
 88,quién,1351,who
 89,nunca,1342,never
-90,dónde,1335,where
 92,casa,1330,home
 94,esa,1306,that
 95,dos,1301,two
