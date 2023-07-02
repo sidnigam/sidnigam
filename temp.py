@@ -1,19 +1,26 @@
+# Roman Numeral Calculator
 
+roman = {
+    "I": 1,
+    "V": 5,
+    "X": 10,
+    "L": 50,
+    "C": 100,
+    "D": 500,
+    "M": 1000,
+}
 
-profit = []
-prices = [7,1,5,3,6,4]
+number = 0
 
-for price in prices:
-    for i in range(len(prices)):
-        buy_price = price
-        # print(buy_price)
-        try:
-            sell_price = max(prices[i+1:])
-        except ValueError:
-            pass
-        # print(sell_price)
-        profit.append(sell_price - buy_price)
-if max(profit))
+romannumber = "MCMXCIV"
 
+for i in range(len(romannumber)-1):
+    print(f"roman number is {roman[romannumber[i]]} and next number is {roman[romannumber[i+1]]}")
+    if roman[romannumber[i]] < roman[romannumber[i+1]]:
+        number -= roman[romannumber[i]]
+    else:
+        number += roman[romannumber[i]]
 
-# print(range(len(prices)))
+number += roman[romannumber[-1]]
+
+print(number)
