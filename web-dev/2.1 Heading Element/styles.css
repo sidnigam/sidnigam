@@ -1,0 +1,24 @@
+html{
+    background-color: coral;
+}
+
+h1{
+    color:blue
+}
+
+h2{
+    color: aquamarine;
+}
+
+.red-text{
+    color: rgb(31, 18, 217);
+}
+
+p[draggable = "true"]{
+    color: rgba(45, 100, 172, 0.816);
+}
+
+*{
+    color: mintcream;
+    margin-left: 10px;
+}
